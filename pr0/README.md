@@ -17,4 +17,4 @@ rectangle Система {
 @enduml
 ```
 
-![]([https://github.com/noil6000/TMP/blob/main/pr0/Практическая%20работа%201.png])
+![]([https://github.com/noil6000/TMP/blob/main/pr0/Жилищное%20агентство%20ИС.png])
