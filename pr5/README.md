@@ -51,7 +51,7 @@ w.show()
 ```
 Диаграмма UML:
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_5/abstract_fb/fabrk.jpg)
+![](https://github.com/noil6000/TMP/blob/main/pr5/abstract_fb/fabrk.jpg)
 
 # Builder
 
@@ -170,7 +170,7 @@ for item in ITEMS:
 
 Диаграмма:
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_5/adapter/adap.jpg)
+![](https://github.com/noil6000/TMP/blob/main/pr5/adapter/adap.jpg)
 
 # Посредник (Mediator)
 
@@ -218,4 +218,4 @@ print(f"COLLEAGUE2 <--> {DATA}")
 
 Диаграмма: 
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_5/posrednik/med.jpg)
+![](https://github.com/noil6000/TMP/blob/main/pr5/posrednik/med.jpg)
