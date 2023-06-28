@@ -17,4 +17,4 @@ rectangle Система {
 @enduml
 ```
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_0/Практическая%20работа%201.png)
+![]([https://github.com/noil6000/TMP/blob/main/pr0/Практическая%20работа%201.png])
