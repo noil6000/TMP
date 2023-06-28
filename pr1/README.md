@@ -78,7 +78,7 @@ class Аккаунт{
 Квартиросъемщик ---> Квартира: Снять жилье
 @enduml
 ```
-![Действия](https://github.com/Smipos/TMP/blob/main/practices/practice_1/2.png)
+![Действия](https://github.com/noil6000/TMP/blob/main/pr1/class/class.bmp)
 
 
 ## Контрольные вопросы
