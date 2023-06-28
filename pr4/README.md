@@ -73,7 +73,7 @@ Iterator.Concrete_Aggregate ..> Iterator.Aggregate
 @enduml
 ```
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_4/iterator/iterator.jpg)
+![](https://github.com/noil6000/TMP/blob/main/pr4/iterator/iterator.jpg)
 
 # Посетитель
 
