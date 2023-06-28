@@ -61,7 +61,8 @@ Strategy.BaseStrategy <|.. Strategy.Multiplicator
 @enduml
 
 ```
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_3/strategy/strategy.jpg)
+![](https://github.com/noil6000/TMP/blob/main/pr3/strategy/strategy.jpg)
+
 
 # Шаблонный метод
 ```
@@ -159,4 +160,4 @@ Template_Method.Template <|-- Template_Method.PDF
 Template_Method.Template <|-- Template_Method.CSV
 @enduml
 ```
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_3/template_method/template_method.png)
+![](https://github.com/noil6000/TMP/blob/main/pr3/template_method/template_method.png)
