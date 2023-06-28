@@ -1,0 +1,36 @@
+@startuml
+interface Visitor.Studying_In_Institute {
++ void accept()
++ void teaching()
++ void studying()
+}
+class Visitor.Instructor {
++ void visit()
++ void teaching()
+
+}
+class Visitor.Student {
++ void visit()
++ void studying()
+}
+class Visitor.SDE {
++ void create(ProjectClass)
++ void create(DataBase)
++ void create(Test)
+}
+class Visitor.STL {
++ void beWritten(Developer)
+}
+class Visitor.DSA {
++ {static} void main(String[])
+}
+
+Visitor.DSA <|.. Visitor.Student
+Visitor.DSA <|.. Visitor.Instructor
+Visitor.SDE <|.. Visitor.Student
+Visitor.SDE <|.. Visitor.Instructor
+Visitor.STL <|.. Visitor.Student
+Visitor.STL <|.. Visitor.Instructor
+Visitor.Studying_In_Institute <|.. Visitor.Instructor
+Visitor.Studying_In_Institute <|.. Visitor.Student
+@enduml
