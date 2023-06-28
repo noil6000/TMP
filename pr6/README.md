@@ -29,11 +29,11 @@ if __name__ == "__main__":
     your_name.your_name()
 ```
 
-serzh.py
+pav.py
 ```
 import your_name_people
 
-your_name_people.people.append("Serzh")
+your_name_people.people.append("Pavel")
 ```
 
 ## Диаграмма
@@ -51,19 +51,18 @@ class YourName.main {
 - config []
 + def your_name()
 }
-class YourName.serzh {
+class YourName.pavel {
 + people.append()
 }
 
 
 YourName.your_name <|.. YourName.main
 YourName.your_name_people <|.. YourName.main
-YourName.serzh <|.. YourName.your_name
+YourName.pavel <|.. YourName.your_name
 @enduml
 ```
 
-![инверсия контроля](https://github.com/Smipos/TMP/blob/main/practices/practice_6/screens/Inversion_Of_Control.png)
-
+![инверсия контроля](https://github.com/noil600/TMP/blob/main/pr6/screens/ioc.png)
 
 # Заместитель (Proxy)
 
@@ -101,7 +100,7 @@ print(SUBJECT.request())
 ```
 
 ## Диаграмма
-![Proxy](https://github.com/Smipos/TMP/blob/main/practices/practice_6/screens/proxy.png)
+![Proxy](https://github.com/noil600/TMP/blob/main/pr6/screens/proxy.png)
 
 # Компоновщик (Composite)
 
@@ -172,4 +171,4 @@ COMPOSITE_2.method()
 
 ## Диаграмма
 
-![Composite](https://github.com/Smipos/TMP/blob/main/practices/practice_6/screens/composite.png)
+![Composite](https://github.com/noil600/TMP/blob/main/pr6/screens/composite.png)
