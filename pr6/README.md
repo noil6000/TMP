@@ -62,7 +62,7 @@ YourName.pavel <|.. YourName.your_name
 @enduml
 ```
 
-![инверсия контроля](https://github.com/noil600/TMP/blob/main/pr6/screens/ioc.png)
+![Инверсия контроля](https://github.com/noil6000/TMP/blob/main/pr6/screens/ioc.png)
 
 # Заместитель (Proxy)
 
@@ -100,7 +100,7 @@ print(SUBJECT.request())
 ```
 
 ## Диаграмма
-![Proxy](https://github.com/noil600/TMP/blob/main/pr6/screens/proxy.png)
+![Proxy](https://github.com/noil6000/TMP/blob/main/pr6/screens/proxy.png)
 
 # Компоновщик (Composite)
 
@@ -171,4 +171,4 @@ COMPOSITE_2.method()
 
 ## Диаграмма
 
-![Composite](https://github.com/noil600/TMP/blob/main/pr6/screens/composite.png)
+![Composite](https://github.com/noil6000/TMP/blob/main/pr6/screens/composite.png)
