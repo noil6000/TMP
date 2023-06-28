@@ -181,4 +181,4 @@ Visitor.Studying_In_Institute <|.. Visitor.Student
 @enduml
 ```
 
-![](https://github.com/Smipos/TMP/blob/main/practices/practice_4/visitor/visitor.jpg)
+![](https://github.com/noil6000/TMP/blob/main/pr4/visitor/visitor.jpg)
