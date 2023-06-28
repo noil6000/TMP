@@ -32,4 +32,4 @@ ubr .> prin : include
 @enduml
 ```
 
-![]([https://github.com/noil6000/TMP/blob/main/pr0/Жилищное%20агентство%20ИС.png])
+![](https://github.com/noil6000/TMP/blob/main/pr0/Жилищное%20агентство%20ИС.png)
